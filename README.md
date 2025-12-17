@@ -26,10 +26,9 @@ src/
 
 ## 🛠 Technologies
 
-- React
-- JavaScript (ES6+)
-- CSS
-- Vite
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,js,react,vite" />
+</p>
 
 ## ⚙️ How It Works
 
@@ -51,7 +50,7 @@ src/
    ```
 🌐 Live Demo
 
-Deployed using Vercel / Netlify
+Deployed using Vercel
 👉 [https://react-frontend-app-tau.vercel.app/]
 
 📌 Author
