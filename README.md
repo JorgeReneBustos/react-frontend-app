@@ -44,4 +44,20 @@ src/
 1. Clone the repository:
    ```bash
    git clone https://github.com/JorgeReneBustos/react-frontend-app.git
+   Install dependencies:
+   npm install
+   Run the project:
+   npm run dev
    ```
+🌐 Live Demo
+
+Deployed using Vercel / Netlify
+👉 [https://react-frontend-app-tau.vercel.app/]
+
+📌 Author
+
+Jorge René Bustos
+Frontend Developer (Junior)
+LinkedIn: https://www.linkedin.com/in/jorgerenebustos/
+
+GitHub: https://github.com/JorgeReneBustos
